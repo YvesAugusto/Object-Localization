@@ -1,5 +1,5 @@
 # Object-Localization
-Colab code to detect object in a background image via deep learning. A VGG 16 neural network was fine tuned to make the detection.
+Colab code to detect object in a background image via deep learning. A VGG 16 neural network was fine tuned to make the detection. Detects and classifies a simpson characted which may appear on Ragnarok MMORPG background images.
 
 ## Results
 ![bart_0](https://user-images.githubusercontent.com/53539227/100528146-18845000-31b8-11eb-94bd-f67dc67954e1.png)
