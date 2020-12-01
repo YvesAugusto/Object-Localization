@@ -16,3 +16,6 @@ Colab code to detect object in a background image via deep learning. A VGG 16 ne
 ![no_1](https://user-images.githubusercontent.com/53539227/100774124-84e19800-33e0-11eb-82a1-850114b560c8.png)
 ![not_0](https://user-images.githubusercontent.com/53539227/100774126-857a2e80-33e0-11eb-9bb8-b199291fe5a6.png)
 ![bart0](https://user-images.githubusercontent.com/53539227/100774136-87dc8880-33e0-11eb-9daa-3e78b3ecc096.png)
+
+
+### Idea took from https://colab.research.google.com/drive/1NwIvaQQJ0BO3B4UDkFnfB58I7hN-iUkA#scrollTo=05xdwS3GDWde, in Advanced Computer Vision udemy course.
